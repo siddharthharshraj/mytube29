@@ -23,7 +23,7 @@ const Footer = () => {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/siddharth2909/"
+              href="https://www.linkedin.com/in/siddharthweb3/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400"
@@ -31,7 +31,7 @@ const Footer = () => {
               LinkedIn
             </a>
             <a
-              href="https://www.siddharthharshraj.dev"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400"
@@ -43,7 +43,7 @@ const Footer = () => {
 
         <div className="text-center">
           <p className="text-gray-400">
-            SIDDHARTH HARSH RAJ YOUTUBE CLONE &copy; 2023
+            SIDDHARTH HARSH RAJ YOUTUBE CLONE &copy; 2024
           </p>
         </div>
       </div>
