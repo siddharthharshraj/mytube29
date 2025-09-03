@@ -43,7 +43,7 @@ const Footer = () => {
 
         <div className="text-center">
           <p className="text-gray-400">
-            SIDDHARTH HARSH RAJ YOUTUBE CLONE &copy; 2024
+            SIDDHARTH HARSH RAJ YOUTUBE CLONE &copy; 2025
           </p>
         </div>
       </div>
@@ -52,3 +52,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
